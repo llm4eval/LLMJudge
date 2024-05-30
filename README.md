@@ -39,3 +39,5 @@ Participants’ results will then be compared in two ways after submission:
 The challenge is organized as a joint effort by the University College London, Microsoft, University of Amsterdam, Univertisy of Wateloo, and University of Padua. 
 
 ## References
+- Rahmani, Hossein A., Nick Craswell, Emine Yilmaz, Bhaskar Mitra, and Daniel Campos. "Synthetic Test Collections for Retrieval Evaluation." arXiv preprint arXiv:2405.07767 (2024).
+- Thomas, Paul, Seth Spielman, Nick Craswell, and Bhaskar Mitra. "Large language models can accurately predict searcher preferences." arXiv preprint arXiv:2309.10621 (2023).
