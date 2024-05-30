@@ -36,5 +36,6 @@ Participants’ results will then be compared in two ways after submission:
 ## Citing
 
 ## Acknowledgments
+The challenge is organized as a joint effort by the University College London, Microsoft, University of Amsterdam, Univertisy of Wateloo, and University of Padua. 
 
 ## References
