@@ -31,7 +31,7 @@ Participants’ results will then be compared in two ways after submission:
 - automated evaluation metrics on human labels in the test set hidden from the participants;
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
-## Baselines/Quick Start
+## Quick Start
 
 ## Citing
 
