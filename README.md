@@ -36,7 +36,7 @@ Participants’ results will then be compared in two ways after submission:
 ## Citing
 
 ## Acknowledgments
-The challenge is organized as a joint effort by the University College London, Microsoft, University of Amsterdam, Univertisy of Wateloo, and University of Padua. 
+The challenge is organized as a joint effort by the University College London, Microsoft, University of Amsterdam, University of Waterloo, and University of Padua. 
 
 ## References
 - Rahmani, Hossein A., Nick Craswell, Emine Yilmaz, Bhaskar Mitra, and Daniel Campos. "Synthetic Test Collections for Retrieval Evaluation." arXiv preprint arXiv:2405.07767 (2024).
