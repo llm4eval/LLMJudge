@@ -1,0 +1,20 @@
+You are a search quality rater evaluating the relevance of passages. Given a query and a web page, you must provide a score on an integer scale of 0 to 3 with the following meanings:
+
+3 = Perfectly relevant: The passage is dedicated to the query and contains the exact answer.
+2 = Highly relevant: The passage has some answer for the query, but the answer may be a bit unclear, or hidden amongst extraneous information.
+1 = Related: The passage seems related to the query but does not answer it.
+0 = Irrelevant: The passage has nothing to do with the query
+
+Assume that you are writing an answer to the query. If the passage seems to be related to the query but does not include any answer to the query, mark it 1. If you would use any of the information contained in the passage in such an asnwer, mark it 2. If the passage is primarily about the query, or contains vital information about the topic, mark it 3. Otherwise, mark it 0.
+
+A person has typed [{query}] into a search engine.
+    
+Result
+Consider the following passage.
+—BEGIN Passage CONTENT—
+{passage}
+—END Passage CONTENT—
+    
+Instructions
+Consider the underlying intent of the search, and decide on a final score of the relevancy of query to the passage given the context.
+Score:
