@@ -33,6 +33,43 @@ Participants’ results will then be compared in two ways after submission:
 
 ## Quick Start
 
+
+## Frequenty Asked Questions (FAQs)
+
+> **1. (Model Usage)** Are we allowed to use different models for our submissions, or is there a specific model that we must use?
+
+You can use any models you prefer. There are no restrictions on the models you can use for your submissions.
+
+> **2. (Prompt Flexibility)** Can we change or customise the provided prompt, or must we use the exact prompts as specified in the challenge guidelines?**
+
+You can use any prompts you wish. The provided prompt is merely a sample from the paper by Thomas et al. [1].
+
+[1] Thomas, Paul, Seth Spielman, Nick Craswell, and Bhaskar Mitra. "Large language models can accurately predict searcher preferences." arXiv preprint arXiv:2309.10621 (2023).
+
+> **3. (Submission Limits)** How many runs are we permitted to submit for evaluation? Is there a limit to the number of submissions per team or model?
+
+There are no limits on the number of submissions. You can submit as many runs as you want. We also encourage running and submitting the same model and prompt multiple times for reproducibility purposes.
+
+> **4. (Query Format Clarification)** Regarding the format <query_id> 0 <passage_id> <relevance_score>, we understand that the 0 serves as a separator. Can you please confirm if this is correct?
+
+Yes, the 0 serves as a separator.
+
+Here are the answers to the new questions in the same format:
+
+> **5. (Challenge Goal)** I am a bit unclear about the main goal of the challenge. Is it about finding the best evaluation prompt, finding the best public LLM model, fine-tuning an LLM model for judging purposes, or all of the above? Clarity here will help in the experiment setup.
+
+The main goal of the challenge encompasses all of the above: finding the best evaluation prompt, identifying the best public LLM model, and fine-tuning an LLM model for judging purposes. Participants are encouraged to explore and innovate across these aspects.
+
+> **6. (Reproducibility Factors)** To ensure reproducibility and comparison between different submissions, what are the set of factors which should be kept unchanged?
+
+To ensure reproducibility and facilitate comparison between different submissions, the following factors should be kept unchanged:
+- The evaluation dataset
+- The evaluation metrics
+
+> **7. (Competition and Winners)** Does the challenge have a contest i.e., will there be winners announced at the end of the competition?
+
+Yes, the top-performing teams/submissions will be announced at the workshop.
+
 ## Citing
 
 ## Acknowledgments
