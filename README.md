@@ -40,7 +40,7 @@ Participants’ results will then be compared in two ways after submission:
 
 You can use any models you prefer. There are no restrictions on the models you can use for your submissions.
 
-> **2. (Prompt Flexibility)** Can we change or customise the provided prompt, or must we use the exact prompts as specified in the challenge guidelines?**
+> **2. (Prompt Flexibility)** Can we change or customise the provided prompt, or must we use the exact prompts as specified in the challenge guidelines?
 
 You can use any prompts you wish. The provided prompt is merely a sample from the paper by Thomas et al. [1].
 
