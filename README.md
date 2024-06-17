@@ -1,4 +1,19 @@
-# LLMJudge
+
+<h1 align="left">
+<img style="vertical-align:middle" width="50px" height="40px" src="LLMJudge-logo.png" /> LLMJudge
+</h1>
+
+<!-- <h4 align="center">
+    <p>
+        <a href="https://arxiv.org/abs/2311.05800">Paper</a> |
+        <a href="#download">Download</a> |
+        <a href="swim-ir-datacard.md">DataCard</a> |
+        <a href="#prompts">Prompts</a>
+    <p>
+</h4> -->
+
+<!-- # LLMJudge <img style="vertical-align:middle" width="40px" height="30px" src="LLMJudge-logo.png" /> -->
+
 Automatic Relevance Judgments for Search and Retrieval Systems
 
 ## LLMJudge Overview
