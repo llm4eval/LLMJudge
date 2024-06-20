@@ -46,15 +46,15 @@ Participants’ results will then be compared in two ways after submission:
 - automated evaluation metrics on human labels in the test set hidden from the participants;
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
-### Submission Form (Required Information)
+## Submission Form (Required Information)
 
-#### Section #1: Team information
+### Section #1: Team information
 
 1. Team Name/ID
 2. Team Members
 3. Email
 
-#### Section #2: Submission of detailed information
+### Section #2: Submission of detailed information
 
 1. Which LLM did you use for the challenge?
 2. What is the size of the LLM?
@@ -67,7 +67,7 @@ Participants’ results will then be compared in two ways after submission:
 6. Original output file before post-processing to get the final judgments (No. of generated tokens)
 7. Please add a description of the main idea, your experience, interesting findings, or any thoughts that they would like to share with us 
 
-#### Section #3: Final result file Submission
+### Section #3: Final result file Submission
 
 1. Final Submission File. Please upload your final result file.
 
