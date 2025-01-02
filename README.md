@@ -50,9 +50,10 @@ Participants’ results will then be compared in two ways after submission:
 
 ### Section #1: Team information
 
-1. Team Name/ID
-2. Team Members
-3. Email
+1. Team ID
+2. Submission ID
+3. Team Members
+4. Email
 
 ### Section #2: Submission of detailed information
 
