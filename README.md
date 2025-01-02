@@ -121,6 +121,15 @@ Yes, the top-performing teams/submissions will be announced at the workshop.
 
 ## Citing
 
+```
+@article{rahmani2024llmjudge,
+  title={Llmjudge: Llms for relevance judgments},
+  author={Rahmani, Hossein A and Yilmaz, Emine and Craswell, Nick and Mitra, Bhaskar and Thomas, Paul and Clarke, Charles LA and Aliannejadi, Mohammad and Siro, Clemencia and Faggioli, Guglielmo},
+  journal={arXiv preprint arXiv:2408.08896},
+  year={2024}
+}
+```
+
 ## Acknowledgments
 The challenge is organized as a joint effort by the University College London, Microsoft, University of Amsterdam, University of Waterloo, and University of Padua. 
 
