@@ -125,3 +125,7 @@ The challenge is organized as a joint effort by the University College London, M
 ## References
 - Rahmani, Hossein A., Nick Craswell, Emine Yilmaz, Bhaskar Mitra, and Daniel Campos. "Synthetic Test Collections for Retrieval Evaluation." arXiv preprint arXiv:2405.07767 (2024).
 - Thomas, Paul, Seth Spielman, Nick Craswell, and Bhaskar Mitra. "Large language models can accurately predict searcher preferences." arXiv preprint arXiv:2309.10621 (2023).
+- Rahmani, Hossein A., Emine Yilmaz, Nick Craswell, Bhaskar Mitra, Paul Thomas, Charles LA Clarke, Mohammad Aliannejadi, Clemencia Siro, and Guglielmo Faggioli. "Llmjudge: Llms for relevance judgments." arXiv preprint arXiv:2408.08896 (2024).
+- Rahmani, Hossein A., Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles LA Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz. "Report on the 1st workshop on large language model for evaluation in information retrieval (llm4eval 2024) at sigir 2024." arXiv preprint arXiv:2408.05388 (2024).
+- Rahmani, Hossein A., Emine Yilmaz, Nick Craswell, and Bhaskar Mitra. "JudgeBlender: Ensembling Judgments for Automatic Relevance Assessment." arXiv preprint arXiv:2412.13268 (2024).
+- Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, Emine Yilmaz. "LLM4Eval: Large Language Model for Evaluation in IR." SIGIR 2024
