@@ -76,6 +76,8 @@ Participants’ results will then be compared in two ways after submission:
 
 ## Quick Start
 
+Quick start file: https://github.com/llm4eval/LLMJudge/blob/main/LLMJudge-quick-start.ipynb
+
 ## Submission
 We will use Google Forms for submissions. Submissions are open at https://forms.gle/vwnViH6LEWs1WGVC7. We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
 
