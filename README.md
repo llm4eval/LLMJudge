@@ -31,6 +31,11 @@ The task is, by providing to the participants the datasets that include quereis,
 
 ## LLMJudge Data
 
+📣 We have released the query and passage ID mapping files. These are provided as two `.txt` files located in the `ids-mapping-files` folder inside the `data` directory:
+
+- `./data/ids-mapping-files/docid_to_docidx.txt`: Maps generated IDs to TREC DL 2023 track passage IDs
+- `./data/ids-mapping-files/qid_to_qidx.txt`: Maps generated IDs to TREC DL 2023 track query IDs
+
 ### Files
 Below we list the files for the challenge:
 
